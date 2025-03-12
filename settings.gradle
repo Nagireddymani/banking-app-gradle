@@ -1,0 +1,6 @@
+rootProject.name = 'banking-system'
+include 'banking-model'
+include 'banking-repository'
+include 'banking-service'
+include 'banking-api'
+
